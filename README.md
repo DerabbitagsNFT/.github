@@ -1,2 +1,4 @@
 # .github
-Public Readme
+
+##About
+Derabbitags are a Derabbitive (derivative) of the Original Playboy Rabbitars and not affiliated with Playboy or Playboy NFTs. This is a community Derabbitive project designed to give back to the Rabbitar community by gifting 25% of the mint cost for each Derabbitag minted to random hodlers wallets. We will also be gifting 40% of the remaining value of the smart contract to one very lucky hodler once all Derabbitags have been minted. This is all 100% handled by the smart contract with no other interaction. If you own a Rabbitar you are automatically whitelisted, after presale the mint is open for everyone. To keep things fair, no one involved in the creation of the project is allowed to mint any Derabbitags for themselves. Post mint we will be airdropping 75% of the eth collected from secondary market royalties every quarter to hodlers wallets based on Derabbitag token IDs. Basically the more you own the better the chances of getting the airdrops post mint.
